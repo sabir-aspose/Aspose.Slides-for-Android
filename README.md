@@ -1,4 +1,4 @@
 Aspose_Slides_Android
 =====================
 
-Aspose.Words for Android Examples
+Aspose.Slides for Android Examples
