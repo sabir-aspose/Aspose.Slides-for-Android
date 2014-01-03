@@ -44,7 +44,7 @@ All examples are provided as separate projects in Java. Each example contains a 
 <table>
   <tr><th>Example<th>Description</th></tr>
   <tr><td>HelloWorld</td><td>Demonstrates how to create a simple presentation and save it to the external storage device in PPTX and PPT presentation formats.</td></tr>
-  <tr><td>Adding Shape</td><td>Provides a sample application in whereby examples for adding different shapes in presentation slides are added.</td></tr>
+  <tr><td>Adding Shape</td><td>Provides a sample application whereby mechanism for adding different shapes in presentation slides has been shared.</td></tr>
 </table>
 
 ###Data
