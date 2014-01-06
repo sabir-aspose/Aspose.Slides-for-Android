@@ -1,6 +1,6 @@
 #Aspose.Slides for Android Examples Repository
 
-This package contains Java Example Projects for [Aspose.Slides for Android](http://www.aspose.com/android/powerpoint-component.aspx).
+This package contains Android Example Projects for [Aspose.Slides for Android](http://www.aspose.com/android/powerpoint-component.aspx).
 
 Aspose.Slides for Android is a unique PowerPoint management component that lets Android developers perform a wide range of presentation processing tasks including reading, writing and manipulating Microsoft PowerPoint documents (PPT, PPTX, POS, PPS, POTX, PPSX) within Android applications independently of Microsoft PowerPoint.
 
@@ -39,7 +39,7 @@ The Aspose.Slides for Android examples published here at GitHub is a part of the
 
 ###Code
 
-All examples are provided as separate projects in Java. Each example contains a fully working app in project form ready for packaging into an .apk and run either on an emulator or real device.
+All examples are provided as separate projects in Android. Each example contains a fully working app in project form ready for packaging into an .apk and run either on an emulator or real device.
 
 <table>
   <tr><th>Example<th>Description</th></tr>
